@@ -1,0 +1,6 @@
+@PrimeWeb_HostAddress = http://localhost:5128
+
+GET {{PrimeWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

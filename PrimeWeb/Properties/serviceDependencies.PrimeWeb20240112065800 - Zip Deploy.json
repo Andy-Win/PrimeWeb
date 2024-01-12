@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/PrimeWebapi-12/apis/PrimeWeb-12",
+      "type": "apis.azure"
+    }
+  }
+}
